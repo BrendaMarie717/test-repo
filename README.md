@@ -1,4 +1,4 @@
-# test-repo Test Repo
+# Test Repo
 
 This repository was created for a Git practice exercise.
 
