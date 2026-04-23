@@ -1,4 +1,1 @@
-Add a new line "Hello this is my new line"
-why is there no conflict?
-I'm lookiing for merge
-
+Adding a new line
